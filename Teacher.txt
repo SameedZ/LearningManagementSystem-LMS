@@ -1,0 +1,9 @@
+Mughess,Ismail,mughess.ismail@nu.edu.pka,MughessIsmail,123,123,33100-9239567-1,Male,Phd ComputerScience,0310-7834889,al najaf colony7,3 2 1992 123450
+Danish,Shahzad,danish.shahzad@nu.edu.pk,DanishShahzad,123,123,33100-5236576-1,Male,MS CS,0310-8667620,al najaf colony8,9 2 1985 123450
+Amir,Zahoor,amir.zahoor@nu.edu.pk,AmirZahoor,nuces1234,nuces1234,33100-1234567-1,Male,MS CS,0305-8667620,al najaf colony9,12 2 1980 123450
+Faisal,Ali Khan,faisal.alikhan@gmail.com,FaisalAli,faisal,faisal,33100-3456234-1,Male,PHD CS,0301-0992345,Batala Colony House no.3 street 1 FSD,2 7 1980 230000
+Irfan,Junaid,irfan.junaid@gmail.com,IrfanJunaid,same,same,33100-1234567-2,Male,MS CS,0304-9887624,EXAMPLE FSD,1 2 1991 143500
+Sadia,Ishfaq,sadia.ishfaq@gmail.com,SadiaIshfaq,pass,pass,33100-1234534-1,Female,MS CS,0304-7665420,Sardogha road  UAF FSD,2 3 1990 123400
+Muhammad Ali,Shahzad,ali.shahzad@gmail.com,,alipass,alipass,33100-3457845-1,Male,MS CS,0305-7552239,Jinnah Colony Street no.2 House#78,3 4 1989 950000
+Muhammmad Arsalan,Ali,arslanali.contact@gmail.com,,ilovedld,ilovedld,33100-3456724-1,Male,BSC Electrical,0305-9886548,Jinnah Colony Street no.2,2 1 1988 120000
+Ebad,Majeed,ebad.majeed@gmail.com,,ilovepf,ilovepf,33100-7854278-1,Male,MS CS,0301-6774981,Somewhere in pakistan,3 2 1992 125000

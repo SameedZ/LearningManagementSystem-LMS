@@ -1,0 +1,9 @@
+33100-9239567-1,Mughess,Ismail,0  No Courses Assgined Yet 
+33100-5236576-1,Danish,Shahzad,0  No Courses Assgined Yet 
+33100-1234567-1,Amir,Zahoor,1 4 UGXPL2Q, Science, Digital Logic Design,
+33100-3456234-1,Faisal,Ali Khan,0  No Courses Assgined Yet 
+33100-1234567-2,Irfan,Junaid,1 2  HBIC6FF, Programming, Programming Fundamentals,
+33100-1234534-1,Sadia,Ishfaq,0  No Courses Assgined Yet 
+33100-3457845-1,Muhammad Ali,Shahzad,0  No Courses Assgined Yet 
+33100-3456724-1,Muhammmad Arsalan,Ali,0  No Courses Assgined Yet 
+33100-7854278-1,Ebad,Majeed,1 2  HBIC6FF, Programming, Programming Fundamentals,

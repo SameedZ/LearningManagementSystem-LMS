@@ -1,0 +1,12 @@
+03001 3, Physics-0 0 0 0 0 0 , Chemistry-0 0 0 0 0 0 , Mathematics-0 0 0 0 0 0 
+04001 4, Biology-0 0 0 0 0 0 , Digital Logic Design-0 0 0 0 0 0 , Psychology-0 0 0 0 0 0 , Marketing-0 0 0 0 0 0 
+03002 3, Physics-0 0 0 0 0 0 , Chemistry-0 0 0 0 0 0 , Mathematics-0 0 0 0 0 0 
+03003 3, Physics-0 0 0 0 0 0 , Chemistry-0 0 0 0 0 0 , Mathematics-0 0 0 0 0 0 
+03004 3, Physics-0 0 0 0 0 0 , Chemistry-0 0 0 0 0 0 , Mathematics-0 0 0 0 0 0 
+03005 3, Physics-0 0 0 0 0 0 , Chemistry-0 0 0 0 0 0 , Mathematics-0 0 0 0 0 0 
+04002 4, Biology-0 0 0 0 0 0 , Digital Logic Design-0 0 0 0 0 0 , Psychology-0 0 0 0 0 0 , Marketing-0 0 0 0 0 0 
+04003 4, Biology-0 0 0 0 0 0 , Digital Logic Design-0 0 0 0 0 0 , Psychology-0 0 0 0 0 0 , Marketing-0 0 0 0 0 0 
+03006 3, Physics-0 0 0 0 0 0 , Chemistry-0 0 0 0 0 0 , Mathematics-0 0 0 0 0 0 
+04004 4, Biology-0 0 0 0 0 0 , Digital Logic Design-0 0 0 0 0 0 , Psychology-0 0 0 0 0 0 , Marketing-0 0 0 0 0 0 
+04005 4, Biology-0 0 0 0 0 0 , Digital Logic Design-0 0 0 0 0 0 , Psychology-0 0 0 0 0 0 , Marketing-0 0 0 0 0 0 
+04006 4, Biology-0 0 0 0 0 0 , Digital Logic Design-0 0 0 0 0 0 , Psychology-0 0 0 0 0 0 , Marketing-0 0 0 0 0 0 

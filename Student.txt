@@ -1,0 +1,12 @@
+Shahid Afridi,Shahid Afridi,3 03001 2 6 2020 M 03001231231  Syed Babar Butt,Bussiness,03001212121 1 A+  House#23 Street#23 Block-A
+Riaz,Malik,4 04001 2 6 2020 M 03001231231  Riaz Malik Afridi,Bussiness,03001231231 0 AB+  House#23 Street#23 Block-A
+Azam,Babar,3 03002 2 6 2020 M 123  Joe,Bussiness,34 1 A+  House#34 Street#23 Block-A
+Riaz,Wahab,3 03003 2 6 2020 M 3423  Joe,Bussiness,34 1 A+  House#23 Street23
+Malik,Usman,3 03004 2 6 2020 M 34  Joe,Clerk,23 0 A+  House#23 Stree#45 Block-A
+Malik,Shoaib,3 03005 2 6 2020 M 4523  Joe,Bussiness,34 1 A+  4523
+Malik,Mirza,4 04002 2 6 2020 M 453  Joe,Clerk,453 1 A+  House#23 Street#23 Block-C
+Malinga,Lasith,4 04003 3 6 2020 M 34  B, B,45 1 A+  House
+Amir,Muhammad,3 03006 5 6 2020 M 03001231231  Iqbal Bhatti,Bussiness,03001212121 1 A+  House#23 Street#23 Block-A
+Cortes,Anebal,4 04004 7 6 2020 M 03001231231  Joe Denly,Bussiness,03001231231 1 AB+  House#23 Street#23 Block-A
+Malik,Malik,4 04005 11 6 2020 M 54  Denly,Clerk,45 0 A+  House something
+rt,rt,4 04006 12 6 2020 M 5 f,f,3 0 a+ fg

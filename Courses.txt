@@ -1,0 +1,7 @@
+Urdu,Urdu & Its literature,SzSoRO0
+History,Sub-Continent & Mughal Empire,MMg4rd7
+Science,Physics,UtsXN9o
+Religious Studies,Islamiat,6EJUllJ
+Computer Science,GWBASIC,cgQChmV
+Communication,Talks and Debates,ynfzMm9
+Computer Science,ICT,mXqMEf3
